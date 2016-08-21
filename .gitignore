@@ -1,0 +1,8 @@
+/OpenTapsPom/drivers/*
+/OpenTapsPom/.settings/*
+/OpenTapsPom/lib/*
+/OpenTapsPom/reports/*
+/OpenTapsPom/target/*
+/OpenTapsPom/test-output/*
+/OpenTapsPom/*.classpath
+/OpenTapsPom/*.project
