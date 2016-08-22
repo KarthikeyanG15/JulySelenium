@@ -4,5 +4,7 @@
 /OpenTapsPom/reports/*
 /OpenTapsPom/target/*
 /OpenTapsPom/test-output/*
+/OpenTapsPom/.metadata/*
 /OpenTapsPom/*.classpath
 /OpenTapsPom/*.project
+.metadata/*
